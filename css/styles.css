@@ -354,6 +354,10 @@ em {
   color: #896895;
 }
 
+a {
+  text-decoration: none;
+}
+
 /* ===Footer=== */
 
 #footer {
